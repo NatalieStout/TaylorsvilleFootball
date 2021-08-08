@@ -1,0 +1,111 @@
+html {
+    max-width: 1980px;
+    margin: auto;
+}
+
+.navbar {
+    background-color: rgb(243, 243, 243) !important;
+}
+
+.navbar-brand {
+    color: gold;
+    font-weight: bold;
+    font-size: larger !important;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.navbar-brand:hover {
+    text-decoration: none;
+    color: black !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: blue !important;
+}
+
+.jumbotron {
+    background-color: white !important;
+    padding: 2% !important;
+}
+
+.home {
+    width: 100% !important;
+    color: gold;
+    background-color: blue;
+}
+
+.game {
+    width: 100% !important;
+    color: blue;
+    background-color: gold;
+}
+
+#menu {
+    padding: 0% !important;
+}
+
+.footer {
+    margin-top: 1% !important;
+    background-color: rgb(243, 243, 243) !important;
+}
+
+.copy {
+    padding: 1% !important;
+}
+
+h1 {
+    color: black;
+    margin: 2% !important;
+    padding-top: 2% !important;
+}
+
+.bio {
+    padding: 2% !important;
+}
+
+.rostertitle {
+    margin: 2% !important;
+}
+
+.card-text {
+    padding: 0% !important;
+    margin: 0% !important;
+}
+
+.sponsor1 {
+    padding: 3% !important;
+    background-color: rgb(243, 243, 243) !important;
+}
+
+.sponsor {
+    padding: 3% !important;
+    margin-top: 1% !important;
+    background-color: rgb(243, 243, 243) !important;
+}
+
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0% !important;
+}
+
+.text-dark {
+    color: black !important;
+}
+
+.lazy:hover {
+    transform: scale(1.5);
+}
+
+.large:hover {
+    transform: scale(1.1) !important;
+}
